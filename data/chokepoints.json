@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cp001",
+    "name": "Strait of Hormuz",
+    "lat": 26.56,
+    "lon": 56.25,
+    "widthNm": 21,
+    "annualTraffic": 18500,
+    "oilFlowBpd": 20500000,
+    "geopoliticalContext": "~20% of global oil supply and ~25% of LNG transits this strait daily. Iran controls the northern shore and has repeatedly threatened closure. IRGCN fast-attack craft and mining capability represent primary threat vectors. Closure would trigger immediate global energy crisis."
+  },
+  {
+    "id": "cp002",
+    "name": "Bab-el-Mandeb",
+    "lat": 12.58,
+    "lon": 43.45,
+    "widthNm": 18,
+    "annualTraffic": 17000,
+    "oilFlowBpd": 6200000,
+    "geopoliticalContext": "Gateway between Red Sea and Gulf of Aden. Houthi forces have attacked >80 commercial vessels since Nov 2023, forcing major carriers to reroute via Cape of Good Hope (+10-14 days, +$1M per transit). US and allied forces conducting Operation Prosperity Guardian."
+  },
+  {
+    "id": "cp003",
+    "name": "Strait of Malacca",
+    "lat": 1.26,
+    "lon": 103.82,
+    "widthNm": 1.7,
+    "annualTraffic": 83000,
+    "oilFlowBpd": 16200000,
+    "geopoliticalContext": "World's busiest chokepoint. ~40% of global trade and 90% of Japan/South Korea oil imports pass through the narrowest point. Piracy historically elevated. Malaysia, Singapore, Indonesia trilateral patrol agreement. Depth constraints limit supertanker drafts."
+  },
+  {
+    "id": "cp004",
+    "name": "Taiwan Strait",
+    "lat": 24.65,
+    "lon": 120.95,
+    "widthNm": 90,
+    "annualTraffic": 47000,
+    "oilFlowBpd": 0,
+    "geopoliticalContext": "~50% of global container ship traffic transits annually. PLA conducts regular military exercises near the strait. TSMC fabs in Taiwan produce ~90% of advanced semiconductors. US commitment to Taiwan defense under TRA creates potential for great-power confrontation. Active PLA Navy and ROCN patrols."
+  },
+  {
+    "id": "cp005",
+    "name": "Suez Canal",
+    "lat": 30.58,
+    "lon": 32.33,
+    "widthNm": 0.17,
+    "annualTraffic": 19300,
+    "oilFlowBpd": 5500000,
+    "geopoliticalContext": "Controlled by Egypt's Suez Canal Authority. Ever Given grounding (Mar 2021) blocked transit for 6 days, cost global trade ~$10B/day. Houthi attacks on Red Sea have reduced canal traffic ~42% since Dec 2023. New parallel lane completed 2015 allows two-way transit."
+  },
+  {
+    "id": "cp006",
+    "name": "Panama Canal",
+    "lat": 9.08,
+    "lon": -79.68,
+    "widthNm": 0.11,
+    "annualTraffic": 13700,
+    "oilFlowBpd": 0,
+    "geopoliticalContext": "~3% of global seaborne trade; critical for US East Coast-Asia container routes. 2024 drought reduced lake water levels, forcing draft restrictions and transit limits (~24/day vs normal 36). Chinese state company Hutchison Ports operates container terminals at both entrances. US-Panama treaty governs canal."
+  },
+  {
+    "id": "cp007",
+    "name": "Strait of Gibraltar",
+    "lat": 35.97,
+    "lon": -5.45,
+    "widthNm": 8,
+    "annualTraffic": 100000,
+    "oilFlowBpd": 0,
+    "geopoliticalContext": "Entry/exit between Atlantic and Mediterranean. UK territory of Gibraltar controls northern shore; Morocco the south. NATO exercises frequently conducted here. Spanish territorial dispute with UK over Gibraltar remains active. Critical submarine surveillance point."
+  },
+  {
+    "id": "cp008",
+    "name": "Lombok Strait",
+    "lat": -8.75,
+    "lon": 115.75,
+    "widthNm": 25,
+    "annualTraffic": 12000,
+    "oilFlowBpd": 0,
+    "geopoliticalContext": "Alternative deep-water passage to Malacca Strait used by supertankers and naval vessels with draft constraints. Chinese naval transits here to reach Indian Ocean have increased since 2020. Indonesian territorial waters; PLAN transits create diplomatic friction."
+  }
+]
